@@ -12,6 +12,7 @@ public class StudentPerformance {
         count = scanner.nextInt();
 
         System.out.println("Enter Marks of " + count + " Subjects");
+        //This is a for loop
         for (i = 0; i < count; i++) {
             totalMarks += scanner.nextInt();
         }
