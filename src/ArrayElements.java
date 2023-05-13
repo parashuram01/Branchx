@@ -1,6 +1,6 @@
 class ArrayElements {
  public static void main(String[] args) {
-    //Create an array
+    //Create an array test
      int[] age = {12,4,5,2,5};
      //Access each array elements
      System.out.println("Accessing Elements of Array:");
